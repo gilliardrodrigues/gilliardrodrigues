@@ -1,2 +1,2 @@
-# gilliardrodrigues
-Estudante de Sistemas de Informação na UFMG
+# Gilliard Gabriel Rodrigues
+Estudante de Sistemas de Informação na UFMG.  
