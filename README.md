@@ -11,3 +11,5 @@
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ### Contact
 ✉️ gilliard2019@ufmg.br
+---
+![Statistics](https://github-readme-stats.vercel.app/api?username=gilliardrodrigues&theme=blue-green)
