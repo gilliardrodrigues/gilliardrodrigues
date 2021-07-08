@@ -13,3 +13,5 @@
 ✉️ gilliard2019@ufmg.br
 ---
 ![Statistics](https://github-readme-stats.vercel.app/api?username=gilliardrodrigues&theme=blue-green)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gilliardrodrigues&theme=blue-green)
