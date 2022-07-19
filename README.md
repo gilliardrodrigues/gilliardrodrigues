@@ -1,6 +1,6 @@
 # About me
 🇧🇷 Brazilian   
-⏳ 21 years old   
+⏳ 22 years old   
 👨‍🎓 Technician in Electro-electronics by SENAI   
 📚 Student of Information Systems at the Federal University of Minas Gerais (2019-2023)   
 🤩 I have a special interest in *Data Science*!
