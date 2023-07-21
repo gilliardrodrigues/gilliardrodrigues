@@ -1,10 +1,11 @@
 # About me
 🇧🇷 Brazilian   
-⏳ 22 years old   
+⏳ 23 years old   
 👨‍🎓 Technician in Electro-electronics by SENAI   
 📚 Student of Information Systems at the Federal University of Minas Gerais 🇧🇷 (2019-2023)   
 📚 Exchange Student of Informatic Engineering at the University of Beira Interior 🇵🇹 (2023)   
-🤩 I have a special interest in *Data Science*!
+🤩 Areas of interest: Data Science and Software Engineering.
+
 ## Skills
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -12,7 +13,7 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![beautifulsoup](https://img.shields.io/badge/beautifulsoup-%231572B6.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![beautifulsoup](https://img.shields.io/badge/beautifulsoup-%231572B6.svg?style=for-the-badge&logo=beautifulsoup&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 
@@ -23,7 +24,8 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-grey?style=for-the-badge&logo=hibernate&logoColor=white)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
